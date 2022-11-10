@@ -1,0 +1,77 @@
+body {
+    background: #000;
+    font-family: ;
+
+}
+#mainnavbar {
+    font-size: 1rem;
+    font-weight: 150;
+    background-color:black;
+    margin: 1rem 2rem;
+    border-radius: 3rem!important;
+}
+#mainnavbar .nav-link  {
+    color: #ffffff;
+}
+#mainnavbar .nav-link:hover {
+color: #FF2E63;
+}
+#mainnavbar .navbar-brand {
+    margin-left: 0.2%; 
+}
+#navlinks {
+    justify-content: center;
+}
+.dropdown-menu {
+    background-color:#000000 ;
+}
+a.dropdown-item {
+    color:#ffffff;
+    font-weight: 150;
+    font-size: 1rem;
+}
+a.dropdown-item:hover {
+background-color: #FF2E63;
+}
+#heading h1 {
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+.img-fluid {
+    border-radius: 30rem;
+}
+
+.round {
+    background-color:black;
+    padding: 3rem 2rem;
+    border-radius: 2rem;
+    margin: 2rem;
+}
+h1 {
+    color: white;
+    font-weight: 150;
+    font-size: 2.5rem;
+}
+span {
+    color: #FF2E63;
+}
+.btn:hover{
+    background-color: #FF2E63;
+    border-color: black;
+}
+h2 {
+    color: white;
+    font-weight: 150;
+    font-size: 2rem;
+    
+}
+.contact{
+    color: white;
+    
+}
+.contact:hover{
+    color: #FF2E63;
+}
+.img-fluid{
+    max-width: 75%;
+}

@@ -39,6 +39,7 @@ background-color: #FF2E63;
 }
 .img-fluid {
     border-radius: 30rem;
+    filter: grayscale(100%);
 }
 
 .round {
